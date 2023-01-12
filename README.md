@@ -1,6 +1,6 @@
 # Symptom Timeline 病程记录助手
 
-记录新冠/流感病程。Record COVID/Flue symptom timelines.
+记录新冠/流感病程。Record COVID/Flu symptom timelines.
 
 ## Project setup
 ```
