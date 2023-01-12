@@ -2,6 +2,8 @@
 
 记录新冠/流感病程。Record COVID/Flu symptom timelines.
 
+App: https://symptom.maisci.com/
+
 ## Project setup
 ```
 npm install
