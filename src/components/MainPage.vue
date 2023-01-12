@@ -80,7 +80,7 @@ const getDateRangeList = () => {
     return [formatDateISO(firstDayInList), formatDateISO(lastDayInList)]
 }
 const dateRangeList = ref(getDateRangeList())
-const symptomNames = ['发热', '咽痒咳嗽', '咽干咽痛', '乏力', '鼻涕', '鼻塞', '肠胃不适', '头痛', '关节痛', '抗原检测', '核酸检测',]
+const symptomNames = ['发热', '咽痒咳嗽', '咽干咽痛', '乏力', '鼻涕', '鼻塞', '肠胃不适', '头痛', '关节痛', '味觉失灵', '嗅觉失灵', '抗原检测', '核酸检测',]
 const allSymptoms = ref([...symptomNames])
 const symptoms = ref([...symptomNames])
 const severities = {
